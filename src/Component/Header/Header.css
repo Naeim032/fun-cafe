@@ -1,0 +1,22 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  align-items: center;
+}
+
+.header h2{
+  font-size: 30px;
+  padding-left: 20px;
+}
+
+.header-menu a{
+  margin-right: 50px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.header-menu a:hover{
+  color: rgb(232, 138, 23);
+  transition: 0.5s ease;
+}
