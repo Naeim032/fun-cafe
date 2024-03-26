@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './Menu.css';
 import Blog from '../Blog/Blog';
+import Bookmark from '../Bookmark/Bookmark';
 
 const Menu = () => {
   const [blogs, setBlogs] = useState([]);
@@ -29,7 +30,9 @@ const Menu = () => {
              }
          </div>
          <div className="bookmark-container">
-             <h6>Bookmarked Blogs :  {bookMark.length}</h6>
+              <Bookmark
+               bookMark = {bookMark}
+              ></Bookmark>
          </div>
     </div>
   );
