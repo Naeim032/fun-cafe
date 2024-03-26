@@ -16,9 +16,8 @@ const Blog = (props) => {
                 <img src={authorImg} alt="" />
                 <h2>{authorName}</h2>
              </div>
-           <button className='book-mark' onClick={() => 
+           <button className='book-mark-btn' onClick={() => 
            handleToBookMark(props.blog)}>
-           Book
            <FontAwesomeIcon icon={faBookmark} />
            </button>
           </div>

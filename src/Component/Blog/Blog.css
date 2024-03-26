@@ -36,4 +36,13 @@
 .bookmark{
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+
+.book-mark-btn{
+  height: 40px;
+}
+.book-mark-btn:hover{
+  background-color: orange;
+  transition: 0.5s ease;
 }
