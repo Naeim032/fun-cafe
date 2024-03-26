@@ -1,30 +1,30 @@
 [
   {
-    "id": "124e13b9-2d54-4b2g-a74d-a77b362d6ead",
-    "author-name": "Men's Sneaker",
-    "blog-title": "How to get your first job as a self-taught programmer",
-    "blog-img": "http://surl.li/rxpge",
-    "author-img": "http://surl.li/rxpjj"
+    "id": "12",
+    "authorName": "Mr. Raju",
+    "blogTitle": "How to get your first job as a self-taught programmer",
+    "blogImg": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1711384596~exp=1711388196~hmac=b5c9bf7dc91f8bc43c7a455419c3058aa43bbc486a8cadcfb4f793fa0eee6410&w=740",
+    "authorImg": "http://surl.li/rxpjj"
   },
   {
-    "id": "124e13b9-2d54-4b2g-a74d-a77b362d6ead",
-    "author-name": "Men's Sneaker",
-    "blog-title": "How to get your first job as a self-taught programmer",
-    "blog-img": "http://surl.li/rxpge",
-    "author-img": "http://surl.li/rxpjw"
+    "id": "1",
+    "authorName": "Mrs. Setara",
+    "blogTitle": "How to get your first job as a self-taught programmer",
+    "blogImg": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1711384596~exp=1711388196~hmac=b5c9bf7dc91f8bc43c7a455419c3058aa43bbc486a8cadcfb4f793fa0eee6410&w=740",
+    "authorImg": "http://surl.li/rxpjw"
   },
   {
-    "id": "124e13b9-2d54-4b2g-a74f-a77b362d6ead",
-    "author-name": "Men's Sneaker",
-    "blog-title": "How to get your first job as a self-taught programmer",
-    "blog-img": "http://surl.li/rxpia",
-    "author-img": "http://surl.li/rxpkd"
+    "id": "2",
+    "authorName": "Mina Mostofa",
+    "blogTitle": "How to get your first job as a self-taught programmer",
+    "blogImg": "https://img.freepik.com/free-vector/big-data-colorful-visualization-complex-data-threads-graphic-visualization-social-network-abstract-data-graph_1217-2344.jpg?t=st=1711384890~exp=1711388490~hmac=23f560aef77d9300e5ea0d00312d002e174fd7b5505d2e3010807260e4de1ade&w=740",
+    "authorImg": "http://surl.li/rxpkd"
   },
   {
-    "id": "124e13b9-2d54-4b2g-a74k-a77b362d6ead",
-    "author-name": "Men's Sneaker",
-    "blog-title": "How to get your first job as a self-taught programmer",
-    "blog-img": "http://surl.li/rxpis",
-    "author-img": "http://surl.li/rxpkp"
+    "id": "3",
+    "authorName": "Fata Kisto",
+    "blogTitle": "How to get your first job as a self-taught programmer",
+    "blogImg": "https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-97395.jpg?t=st=1711384987~exp=1711388587~hmac=31359adfa1cdeb71f070775c77707bd73eb0589ee5f63c6ebf896aa776a8e5e9&w=826",
+    "authorImg": "http://surl.li/rxpkp"
   }
 ]

@@ -1,0 +1,39 @@
+.blog-details img{
+   width: 845px;
+   height: 450px;
+}
+
+.blog-details h4{
+  font-size: 40px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.blog-details p{
+  margin-bottom: 27px;
+}
+
+.blog-details a{
+  text-decoration: underline;
+}
+
+.author-details{
+  display: flex;
+  align-items: center;
+}
+
+.author-details img{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.author-details h2{
+  font-size: 24px;
+  margin-left: 20px;
+}
+
+.bookmark{
+  display: flex;
+  justify-content: space-between;
+}
